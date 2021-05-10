@@ -1,6 +1,6 @@
 module.exports = {
   // 站点配置
-  base: './',
+  base: '/clog/',
   lang: 'zh-CN',
   title: '你好， Clog ！',
   description: '这是一个 Clog 站点',

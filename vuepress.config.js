@@ -1,6 +1,6 @@
 module.exports = {
   // 站点配置
-  base: './',
+  // base: './',
   locales: {
     '/': {
       lang: 'zh-CN',
